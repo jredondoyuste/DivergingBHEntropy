@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Platania
-    given-names: Alessia
   - family-names: Redondo-Yuste
     given-names: Jaime
+    orcid: "https://orcid.org/0000-0003-3697-0319"
 title: "DivergingBHEntropyNb"
 version: 1.0.0
 date-released: 2022-07-21
+url: "https://github.com/jredondoyuste/DivergingBHEntropy"
